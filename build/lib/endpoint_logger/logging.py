@@ -227,7 +227,6 @@ class Logger:
 
 		if not config_object:
 			self.pre_request = True
-			do_not_log = []
 		
 		else:
 			allowed_values = ["wrapper", "pre_request"]

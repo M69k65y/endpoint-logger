@@ -8,7 +8,7 @@ def readme():
 
 setup(
 	name = "endpoint-logger",
-	version = "1.0.0",
+	version = "1.0.0:r1",
 	description = "A Python package used to track Flask API endpoint access. (Built in Python 3)",
 	url = "https://github.com/M69k65y/endpoint-logger",
 	author = "M69k65y",
